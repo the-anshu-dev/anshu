@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "Here is initial package of anshu for verification",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-anshu-dev/anshu-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/the-anshu-dev/anshu-package/issues"
+  },
+  "homepage": "https://github.com/the-anshu-dev/anshu-package#readme"
   "scripts": {
     "test": "npm test"
   },
