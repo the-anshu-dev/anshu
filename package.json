@@ -1,0 +1,16 @@
+{
+  "name": "anshu",
+  "version": "1.0.0",
+  "description": "Here is initial package of anshu for verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "anshu",
+    "test",
+    "npm"
+  ],
+  "author": "Anshu Chaurasia",
+  "license": "MIT"
+}
